@@ -21,7 +21,7 @@ I’m a student nearing the completion of my degree at UCAB, deeply passionate a
 </div>
 
 <div>
-  <a href="www.linkedin.com/in/alessandro-valsania" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/alessandro-valsania" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/24px-LinkedIn_icon.svg.png" alt="Linkedin" style="vertical-align: middle; margin-right: 10px;" />
     <span style="font-size: 18px; font-weight: bold;">LinkedIn</span>
   </a>
